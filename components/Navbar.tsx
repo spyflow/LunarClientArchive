@@ -10,7 +10,7 @@ export default function Navbar() {
         >
             <Link href="/" className="flex items-center space-x-6">
                 <img
-                    src="https://store.lunarclient.com/static/img/logo.webp"
+                    src="https://www.moonsworth.com/images/logos/lunarclient.png"
                     alt=''
                     draggable={false}
                     width={55}
